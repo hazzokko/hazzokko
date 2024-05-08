@@ -65,14 +65,14 @@
   <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=SpringBoot&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white" />
 </div>
-<br>
 
+<hr>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hazzokko&langs_count=8)](https://github.com/hazzokko/github-readme-stats)
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=hazzokko)](https://github.com/hazzokko/github-readme-stats)
 
 
-
+<hr>
 
 
 
