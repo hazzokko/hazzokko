@@ -14,6 +14,14 @@
 <h3>📕 블로그</h3>
 기술 블로그를 운영하여, 학습한 내용을 정리하고 지식을 공유하고 있습니다.<br>
 <a href="https://hazzokko.tistory.com/">🔎블로그 바로가기</a>
+
+<h3>💻 Project</h3>
+<ol>
+	<li>[FINAL] Job-a : 클라우드 환경 MSA 구조의 개발자 채용 사이트 / <a href="https://github.com/hazzokko/user-service">👀 자세히</a></li>
+ 	<li>HGYR : 내장 톰캣(WAS)을 이용한 MSA 구조 포털 사이트 / <a href="https://github.com/hazzokko/nonsan">👀 자세히</a></li>
+ 	<li>Ticketaca : 전시회 티켓 예약 사이트 / <a href="https://github.com/hazzokko/ticketaca">👀 자세히</a></li>
+</ol>
+
 <hr>
 
 <div align>
@@ -71,17 +79,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hazzokko&langs_count=8)](https://github.com/hazzokko/github-readme-stats)
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=hazzokko)](https://github.com/hazzokko/github-readme-stats)
 
-
-<hr>
-
-
-
-### Project
-<ol>
-	<li>[FINAL] Job-a : 클라우드 환경 MSA 구조의 개발자 채용 사이트 / <a href="https://github.com/hazzokko/user-service">👀 자세히</a></li>
- 	<li>HGYR : 내장 톰캣(WAS)을 이용한 MSA 구조 포털 사이트 / <a href="https://github.com/hazzokko/nonsan">👀 자세히</a></li>
- 	<li>Ticketaca : 전시회 티켓 예약 사이트 / <a href="https://github.com/hazzokko/ticketaca">👀 자세히</a></li>
-</ol>
 
 <!--
 **hazzokko/hazzokko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
