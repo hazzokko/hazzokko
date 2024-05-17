@@ -78,9 +78,9 @@
 
 ### Project
 <ol>
-	<li>Ticketaca : 전시회 티켓 예약 사이트 / <a href="https://github.com/hazzokko/ticketaca">👀 자세히</a></li>
-	<li>HGYR : 내장 톰캣(WAS)을 이용한 MSA 구조 포털 사이트 / <a href="https://github.com/hazzokko/nonsan">👀 자세히</a></li>
 	<li>[FINAL] Job-a : 클라우드 환경 MSA 구조의 개발자 채용 사이트 / <a href="https://github.com/hazzokko/user-service">👀 자세히</a></li>
+ 	<li>HGYR : 내장 톰캣(WAS)을 이용한 MSA 구조 포털 사이트 / <a href="https://github.com/hazzokko/nonsan">👀 자세히</a></li>
+ 	<li>Ticketaca : 전시회 티켓 예약 사이트 / <a href="https://github.com/hazzokko/ticketaca">👀 자세히</a></li>
 </ol>
 
 <!--
